@@ -1,3 +1,4 @@
+![background](git-background.png)
 ## 🔎 Em busca de uma vaga como desenvolvedor junior.  
 <br>
 
