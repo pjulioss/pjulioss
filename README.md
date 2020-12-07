@@ -1,4 +1,4 @@
-<img src="https://github.com/pjulioss/pjulioss/blob/master/git-background.png">  
+<img src="https://github.com/pjulioss/pjulioss/blob/master/bg.png">  
 
 ## 🔎 Em busca de uma vaga como desenvolvedor junior.  
 <br>
