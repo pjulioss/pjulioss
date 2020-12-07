@@ -9,13 +9,13 @@ Atualmente meus estudos estão com base em Javascript, porém nada me impede de 
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjulioss&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pjulioss&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjulioss&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pjulioss&show_icons=true"/></td>
     </tr>   
 </table>
-</center>  
-  
+</center> 
 
+## Entre em contato
 ✉ soaresjuliopedro@gmail.com  
 👔 [Linkedin](https://www.linkedin.com/in/pjulioss/)  
 🔹 [Twitter](https://www.twitter.com/pjulioss)
