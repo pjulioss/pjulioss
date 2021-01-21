@@ -1,10 +1,10 @@
 <img src="https://github.com/pjulioss/pjulioss/blob/master/git.png">  
 
-#### Sou entusiasta de tecnologia e aspirante a desenvolvedor web, nas horas vagas me aventuro em jogos online ou algum livro de fantasia.
+## Sou entusiasta de tecnologia e aspirante a desenvolvedor web
+#### 💻 Em busca de uma vaga como desenvolvedor junior.  
 
-## 💻 Em busca de uma vaga como desenvolvedor junior.  
+Atualmente meus estudos estão com base na web, porém nada me impede de aprender novas tecnologias para prosseguir com meus projetos, nas horas vagas me aventuro em jogos online ou algum livro de fantasia.
 
-Atualmente meus estudos estão com base na web, porém nada me impede de aprender novas tecnologias para prosseguir com meus projetos. 
 
 <center>
 <table>
