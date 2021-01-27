@@ -1,4 +1,4 @@
-<img src="https://github.com/pjulioss/pjulioss/blob/master/git.png">  
+<img src="https://github.com/pjulioss/pjulioss/blob/master/fundo.png">  
 
 ## Sou entusiasta de tecnologia e aspirante a desenvolvedor web
 #### 💻 Em busca de uma vaga como desenvolvedor junior.  
