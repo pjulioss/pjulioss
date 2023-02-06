@@ -15,7 +15,4 @@ Atualmente meus estudos estão com base na web, porém nada me impede de aprende
 </table>
 </center> 
 
-## Entre em contato
-✉ soaresjuliopedro@gmail.com  
-👔 [Linkedin](https://www.linkedin.com/in/pjulioss/)  
-🔹 [Twitter](https://www.twitter.com/pjulioss)
+
